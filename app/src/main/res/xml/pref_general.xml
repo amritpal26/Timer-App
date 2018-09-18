@@ -1,0 +1,25 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:capitalize="words"
+        android:defaultValue="@string/pref_default_display_name"
+        android:inputType="textCapWords"
+        android:key="pref_user_name"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_user_name" />
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="pref_sound"
+        android:summary="@string/pref_description_sound"
+        android:title="@string/pref_title_sound" />
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="pref_vibration"
+        android:summary="@string/pref_description_vibration"
+        android:title="@string/pref_title_vibration" />
+
+</PreferenceScreen>
