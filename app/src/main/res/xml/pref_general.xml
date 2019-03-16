@@ -11,15 +11,15 @@
         android:title="@string/pref_title_user_name" />
 
     <SwitchPreference
-        android:defaultValue="true"
+        android:defaultValue="false"
         android:key="pref_sound"
-        android:summary="@string/pref_description_sound"
-        android:title="@string/pref_title_sound" />
+        android:title="Sound"
+        android:summary="Enable or disable sound" />
 
     <SwitchPreference
-        android:defaultValue="true"
+        android:defaultValue="false"
         android:key="pref_vibration"
-        android:summary="@string/pref_description_vibration"
-        android:title="@string/pref_title_vibration" />
+        android:title="Vibration"
+        android:summary="Enable or disable vibration" />
 
 </PreferenceScreen>

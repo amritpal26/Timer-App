@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "777842314880",
-    "firebase_url": "https://breathingtimer-e129c.firebaseio.com",
-    "project_id": "breathingtimer-e129c",
-    "storage_bucket": "breathingtimer-e129c.appspot.com"
+    "project_number": "213284592339",
+    "firebase_url": "https://breathing-timer-a52fa.firebaseio.com",
+    "project_id": "breathing-timer-a52fa",
+    "storage_bucket": "breathing-timer-a52fa.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:777842314880:android:3a0490f8b1d937c0",
+        "mobilesdk_app_id": "1:213284592339:android:d8ca454b02341f5d",
         "android_client_info": {
-          "package_name": "com.example.amrit.timerdemo"
+          "package_name": "com.sfu.research.timerdemo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "777842314880-rvfr0tb8t6k8ku1sk1s5kdp066f43ehe.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.amrit.timerdemo",
-            "certificate_hash": "d0c09f6563c5b623768f322c35d0ea0f8838e9a0"
-          }
-        },
-        {
-          "client_id": "777842314880-m7b2pta2ee5ctercp2jm4vjgtst55sn6.apps.googleusercontent.com",
+          "client_id": "213284592339-jkrqr5gvbs2fn4m9gk2ad3ks65du5j1k.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAX-jUlalGJr8chTV3MwP5JQue0mGTC0UE"
+          "current_key": "AIzaSyBinJGLO0vg4WxscMwpbNwXj5iANV4h1OY"
         }
       ],
       "services": {
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "777842314880-m7b2pta2ee5ctercp2jm4vjgtst55sn6.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2

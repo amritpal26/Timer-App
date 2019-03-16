@@ -6,7 +6,7 @@
             android:key="reminder_1"
             android:title="@string/pref_title_reminder_1" />
 
-        <com.example.amrit.timerdemo.TimePreference
+        <com.sfu.research.timerdemo.TimePreference
             android:dependency="reminder_1"
             android:key="timePref_reminder_1"
             android:title="@string/timePref_reminder_title" />
@@ -18,7 +18,7 @@
             android:key="reminder_2"
             android:title="@string/pref_title_reminder_2" />
 
-        <com.example.amrit.timerdemo.TimePreference
+        <com.sfu.research.timerdemo.TimePreference
             android:dependency="reminder_2"
             android:key="timePref_reminder_2"
             android:title="@string/timePref_reminder_title" />
